@@ -1,0 +1,19 @@
+@import url("https://rsms.me/inter/inter-ui.css");
+/* line 3, /Users/ralvarezgo/Documents/personal/2018 01 11 the design crawl/react-rocket-boilerplate/app/styles/_typography.scss */
+h4 {
+  text-transform: uppercase;
+  font-weight: 400;
+  font-size: 0.8em;
+  letter-spacing: 0.04em; }
+
+/* line 1, /Users/ralvarezgo/Documents/personal/2018 01 11 the design crawl/react-rocket-boilerplate/app/styles/_base.scss */
+body {
+  font-family: 'Inter UI', 'SF UI', Helvetica, Arial, sans-serif;
+  margin: 0; }
+
+@media (min-width: 800px) {
+  /* line 7, /Users/ralvarezgo/Documents/personal/2018 01 11 the design crawl/react-rocket-boilerplate/app/styles/_base.scss */
+  h2 {
+    font-size: 2.4em; } }
+
+/*# sourceMappingURL=main.css.map */
